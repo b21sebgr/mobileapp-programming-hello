@@ -3,6 +3,10 @@
 
 **Skriv din rapport här!**
 
+## Jag inspekterade text-elementet på skärmen i filen som hade med vad som skulle visas på skärmen att göra genom att klicka på den
+ sedan tog jag fram attributet som bestämde vad text skulle vara,
+ sedan ändarde jag texten till "Goodbye World!"
+
 _Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
@@ -33,7 +37,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](Sceenshot_Rapport1.png)
 
 Läs gärna:
 
